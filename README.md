@@ -29,6 +29,7 @@ curso-selenium/
 │  └─ login_steps.py
 └─ screens/
    └─ login_screen.py
+```
 
 # Curso de Selenium con Python 🐍💻
 
