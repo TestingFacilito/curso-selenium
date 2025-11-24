@@ -49,4 +49,38 @@ Clona el repositorio:
 git clone https://github.com/TestingFacilito/curso-selenium.git
 cd curso-selenium
 
+Crea y activa un entorno virtual (opcional, pero recomendado):
+
+# Windows
+python -m venv venv
+venv\Scripts\activate
+
+
+Instala las dependencias:
+
+pip install -r requirements.txt
+
+🧪 Cómo ejecutar las pruebas
+
+Desde la raíz del proyecto:
+
+behave
+
+
+Esto ejecutará los escenarios definidos en la carpeta features/.
+
+También puedes ejecutar un archivo específico:
+
+behave features/login.feature
+
+📺 Curso y contacto
+
+Este repositorio forma parte del contenido del curso de Testing Facilito.
+Si tienes dudas, comentarios o sugerencias:
+
+💬 Abre un Issue en este repositorio
+
+📹 Visita el canal de YouTube: Testing Facilito
+
+¡Gracias por usar este repo como apoyo para aprender automatización con Selenium! 🚀
 
