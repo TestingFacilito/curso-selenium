@@ -30,16 +30,38 @@ curso-selenium/
 └─ screens/
    └─ login_screen.py
 
-```
-features/: archivos .feature escritos en Gherkin (escenarios BDD).
-steps/: definición de los pasos en Python.
-screens/: clases que representan pantallas/páginas (Page Object Model).
-requirements.txt: dependencias del proyecto.
-main.py: archivo de apoyo para ejemplos del curso.
-```
+# Curso de Selenium con Python 🐍💻
 
+Repositorio oficial del **curso de automatización con Selenium y Python** de **Testing Facilito**.  
+Aquí encontrarás el código de ejemplo usado en los videos: escenarios BDD con **Behave**, pasos en Python y uso de **Selenium WebDriver**.
 
 ---
-hola
+
+## 🗂 Estructura del proyecto
+
+- `features/`: archivos `.feature` escritos en **Gherkin** (escenarios BDD).
+- `steps/`: definición de los pasos en **Python**.
+- `screens/`: clases que representan pantallas/páginas (**Page Object Model**).
+- `requirements.txt`: dependencias del proyecto.
+- `main.py`: archivo de apoyo para ejemplos del curso.
+
 ---
+
+## ✅ Requisitos
+
+- Python 3.x
+- `pip` instalado y funcionando
+- Navegador (por ejemplo, **Google Chrome**)
+- Driver correspondiente (o uso de `webdriver-manager` si está configurado)
+
+---
+
+## 🚀 Cómo instalar el proyecto
+
+Clona el repositorio:
+
+```bash
+git clone https://github.com/TestingFacilito/curso-selenium.git
+cd curso-selenium
+
 
