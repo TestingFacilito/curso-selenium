@@ -48,13 +48,16 @@ Clona el repositorio:
 ```bash
 git clone https://github.com/TestingFacilito/curso-selenium.git
 cd curso-selenium
+```
 
-Crea y activa un entorno virtual (opcional, pero recomendado):
+## Crea y activa un entorno virtual (opcional, pero recomendado):
 
 # Windows
+
+```bash
 python -m venv venv
 venv\Scripts\activate
-
+```
 
 Instala las dependencias:
 
