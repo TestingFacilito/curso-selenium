@@ -31,6 +31,8 @@ curso-selenium/
    └─ login_screen.py
 ```
 
+```
+
 # Curso de Selenium con Python 🐍💻
 
 Repositorio oficial del **curso de automatización con Selenium y Python** de **Testing Facilito**.  
