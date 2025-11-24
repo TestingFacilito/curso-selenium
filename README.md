@@ -59,24 +59,28 @@ python -m venv venv
 venv\Scripts\activate
 ```
 
-Instala las dependencias:
+## Instala las dependencias:
 
+```bash
 pip install -r requirements.txt
+```
 
-🧪 Cómo ejecutar las pruebas
-
+## 🧪 Cómo ejecutar las pruebas
 Desde la raíz del proyecto:
 
+```bash
 behave
-
+```
 
 Esto ejecutará los escenarios definidos en la carpeta features/.
 
 También puedes ejecutar un archivo específico:
 
+```bash
 behave features/login.feature
+```
 
-📺 Curso y contacto
+## 📺 Curso y contacto
 
 Este repositorio forma parte del contenido del curso de Testing Facilito.
 Si tienes dudas, comentarios o sugerencias:
