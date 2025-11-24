@@ -29,13 +29,17 @@ curso-selenium/
 │  └─ login_steps.py
 └─ screens/
    └─ login_screen.py
-```text
 
----
+```
 features/: archivos .feature escritos en Gherkin (escenarios BDD).
 steps/: definición de los pasos en Python.
 screens/: clases que representan pantallas/páginas (Page Object Model).
 requirements.txt: dependencias del proyecto.
 main.py: archivo de apoyo para ejemplos del curso.
+```
+
+
+---
+hola
 ---
 
